@@ -14,13 +14,13 @@
   }
   ```
 */
-export default function Example() {
+export default function ContactExample() {
   return (
     <>
       <div id="contact" className="">
         <div className="md:grid md:grid-cols-3 md:gap-6">
-          <div className="md:col-span-1 px-5">
-            <div className="px-4 sm:px-0">
+          <div className="md:col-span-1 px-4 md:px-5">
+            <div className="px-0 sm:px-0 md:px-4">
               <h3 className="text-lg font-medium leading-6 text-gray-900">Contacto</h3>
               <p className="mt-3 text-sm text-gray-600">
                 Nuestro horario de atención es de Lunes a Viernes de 9 a 18hs.

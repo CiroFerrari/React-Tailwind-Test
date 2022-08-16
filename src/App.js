@@ -10,7 +10,7 @@ import ContactExample from './components/Example/ContactExample';
 function App() {
   return (
     <div className='flex flex-col'>
-      <div className='flex flex-col h-screen'>
+      <div className='flex flex-col min-h-screen'>
         <NavbarExample />
         <HeroExample />
       </div>

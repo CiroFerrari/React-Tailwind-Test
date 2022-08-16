@@ -7,7 +7,7 @@ export default function CTAExample() {
           <span className="block">Tu camino en la belleza comienza hoy.</span>
           <span className="block text-indigo-600">Consultanos para el mejor asesoramiento.</span>
         </h2>
-        <div className="mt-8 flex lg:mt-0 lg:flex-shrink-0 mr-32 w-full justify-center">
+        <div className="mt-8 flex lg:mt-0 lg:flex-shrink-0 mr-16 w-fit justify-center">
           <div className="inline-flex rounded-md shadow">
             <a
               href="#contact"
